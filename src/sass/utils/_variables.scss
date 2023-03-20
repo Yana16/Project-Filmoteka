@@ -1,0 +1,28 @@
+// картка, пагінація, тайтли в назвах карток
+$card-text-color: #000000;
+
+// картка в назвах, кнопки, футери
+$card-text-accent: #ff6b08;
+
+// скрізь, де використовуємо білий колір
+$header-white-color: #ffffff;
+
+//темний колір теми
+$dark-background: #303033;
+
+// колір тексту при темній темі
+$text-color-on-dark-theme: rgb(243, 243, 244);
+
+// підкреслення меню, повідомлення про помилку
+$reactangle-color: #ff001b;
+
+// футер текст
+$footer-text-color: #545454;
+
+// transparent хедера
+$color-gray-transparent: rgba(0, 0, 0, 0.56);
+
+// шрифт, кубік
+$primary-font: 'Roboto', 'Raleway', sans-serif;
+$primary-font-size: 14px;
+$primary-cubic: cubic-bezier(0.4, 0, 0.2, 1);
