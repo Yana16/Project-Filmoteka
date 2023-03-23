@@ -1,11 +1,11 @@
 {
-  "name": "js-project-team10",
+  "name": "project-filmoteka",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://yana16.github.io/Project-Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /JS-Project-Team10/"
+    "build": "parcel build src/*.html --public-url /Project-Filmoteka/"
   },
   "repository": {
     "type": "git",
